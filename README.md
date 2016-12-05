@@ -1,2 +1,1 @@
-# Bag-of-Words
 #Eigenfaces
