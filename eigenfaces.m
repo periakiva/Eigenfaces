@@ -4,7 +4,7 @@
 clc
 clear
 
-input_dir = 'D:\PERI\Documents\MATLAB\train\';
+input_dir = 'path\to\train\';
 testdir='D:\PERI\Documents\MATLAB\test\'
 image_dims = [200, 180];
 classes=[0;1;2;3;4;5;6;7;8;9];
